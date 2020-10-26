@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb

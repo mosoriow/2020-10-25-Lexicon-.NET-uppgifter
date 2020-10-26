@@ -1,0 +1,7 @@
+C:\Users\Manuel Osorio Wallac\source\repos\Lession10\Lession10\obj\Debug\Lession10.csprojAssemblyReference.cache
+C:\Users\Manuel Osorio Wallac\source\repos\Lession10\Lession10\obj\Debug\Lession10.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Osorio Wallac\source\repos\Lession10\Lession10\bin\Debug\Lession10.exe.config
+C:\Users\Manuel Osorio Wallac\source\repos\Lession10\Lession10\bin\Debug\Lession10.exe
+C:\Users\Manuel Osorio Wallac\source\repos\Lession10\Lession10\bin\Debug\Lession10.pdb
+C:\Users\Manuel Osorio Wallac\source\repos\Lession10\Lession10\obj\Debug\Lession10.exe
+C:\Users\Manuel Osorio Wallac\source\repos\Lession10\Lession10\obj\Debug\Lession10.pdb

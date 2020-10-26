@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb

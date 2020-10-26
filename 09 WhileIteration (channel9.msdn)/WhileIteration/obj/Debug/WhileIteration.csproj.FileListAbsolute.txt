@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb

@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\Decisions\Decisions\bin\Debug\Decisions.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\Decisions\Decisions\bin\Debug\Decisions.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\Decisions\Decisions\bin\Debug\Decisions.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\Decisions\Decisions\obj\Debug\Decisions.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\Decisions\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\Decisions\Decisions\obj\Debug\Decisions.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\Decisions\Decisions\obj\Debug\Decisions.pdb

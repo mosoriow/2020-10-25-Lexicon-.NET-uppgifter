@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-25 - channel9.msdn.com\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
